@@ -5,8 +5,8 @@
 		"args": {
 			// Update VARIANT to pick a Bioconductor version: devel, latest (stable release), RELEASE_3_14, RELEASE_3_13
 			"VARIANT": "latest",
-			// Start with a minimal image (rocker/r-ver) or a expanded image.
-			// See more details about rocker/r-ver's derived images: https://github.com/rocker-org/rocker-versioned2
+			// Start with a minimal image (rocker/r-ver) or a expanded image like bioconductor/bioconductor_docker
+			// See more details about bioconductor/bioconductor_docker derived images: https://github.com/Bioconductor/bioconductor_docker
 			"BASE_IMAGE": "bioconductor/bioconductor_docker",
 			// Options
 			"ENABLE_JUPYTER": "true"
