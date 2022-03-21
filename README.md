@@ -1,6 +1,8 @@
-# Bioconductor / R (Community)
+# Bioconductor / R Codespaces
 
 ## Summary
+
+Taken from See [Microsoft VS Code](https://github.com/microsoft/vscode-dev-containers/).
 
 *Perform statistical computing using the R language on Linux. Includes R / Bioconductor and needed extensions.*
 
@@ -9,7 +11,7 @@
 | *Contributors* | [nturaga](https://github.com/nturaga) |
 | *Categories* | Community, Languages |
 | *Definition type* | Dockerfile |
-| *Works in Codespaces* | Maybe |
+| *Works in Codespaces* | Yes |
 | *Container host OS support* | Linux, macOS, Windows |
 | *Container OS* | Ubuntu |
 | *Languages, platforms* | R |
@@ -41,4 +43,4 @@ This definition includes some test code that will help you verify it is working 
 
 ## License
 
-Licensed under the MIT License. See [LICENSE](https://github.com/microsoft/vscode-dev-containers/blob/main/LICENSE).
+Licensed under the MIT License
