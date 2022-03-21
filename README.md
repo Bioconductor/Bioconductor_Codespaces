@@ -6,10 +6,10 @@
 
 | Metadata | Value |  
 |----------|-------|
-| *Contributors* | [kmehant](mailto:kmehant@gmail.com), [eitsupi](https://github.com/eitsupi) |
+| *Contributors* | [nturaga](https://github.com/nturaga) |
 | *Categories* | Community, Languages |
 | *Definition type* | Dockerfile |
-| *Works in Codespaces* | No |
+| *Works in Codespaces* | Maybe |
 | *Container host OS support* | Linux, macOS, Windows |
 | *Container OS* | Ubuntu |
 | *Languages, platforms* | R |
