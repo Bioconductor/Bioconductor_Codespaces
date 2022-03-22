@@ -27,7 +27,8 @@
 	// For example, if you want to use vscode-jupyter, add "ms-toolsai.jupyter".
 	"extensions": [
 		"ikuyadeu.r",
-		"rdebugger.r-debugger"
+		"rdebugger.r-debugger",
+		"ms-toolsai.jupyter"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
