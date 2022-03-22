@@ -1,7 +1,7 @@
 # [Choice] Bioconductor version: devel, latest, RELEASE_3_14, RELEASE_3_13
 ARG VARIANT=latest
 # [Choice] Base image. bioconductor/bioconductor_docker
-ARG BASE_IMAGE=bioconductor/bioconductor_docker
+ARG BASE_IMAGE=mcr.microsoft.com/bioconductor/bioconductor_docker
 FROM ${BASE_IMAGE}:${VARIANT}
 
 # [Option] Install zsh
