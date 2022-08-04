@@ -7,7 +7,7 @@
 			"VARIANT": "latest",
 			// Start with a minimal image (rocker/r-ver) or a expanded image like bioconductor/bioconductor_docker
 			// See more details about bioconductor/bioconductor_docker derived images: https://github.com/Bioconductor/bioconductor_docker
-			"BASE_IMAGE": "mcr.microsoft.com/bioconductor/bioconductor_docker",
+			"BASE_IMAGE": "bioconductor/bioconductor_docker",
 			// Options
 			"ENABLE_JUPYTER": "true"
 		}
