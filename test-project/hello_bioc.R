@@ -7,7 +7,7 @@ say_hello("Bioconductor codespaces")
 ## Print version of Bioconductor
 BiocManager::version()
 
-## Show AnVIL repositories 
+## Show Bioconductor repositories 
 library(BiocManager)
 BiocManager::repositories()
 
