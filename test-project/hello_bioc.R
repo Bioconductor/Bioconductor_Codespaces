@@ -8,8 +8,8 @@ say_hello("Bioconductor codespaces")
 BiocManager::version()
 
 ## Show AnVIL repositories 
-library(AnVIL)
-AnVIL::repositories()
+library(BiocManager)
+BiocManager::repositories()
 
 ## Install binary packages on codespaces
-AnVIL::install('a4')
+BiocManager::install('a4')
